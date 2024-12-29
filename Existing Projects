@@ -1,0 +1,23 @@
+Animal location tracking system with health monitoring:
+A system that combines GPS tracking and sensors to monitor animal locations and health metrics like heart rate and body temperature in real time.
+
+Geoinformatics for wildlife conservation and radio-collared tracking:
+Uses GIS, GPS, and remote sensing to track and analyze wildlife movement, behavior, and habitat changes, integrating data into a thematic database for conservation.
+
+Wildlife monitoring using wireless image sensor networks (WISN):
+A wireless network of image sensors monitors wildlife remotely and automatically in all weather conditions, providing real-time data for conservation efforts.
+
+Animal detection and classification using CNN:
+Employs convolutional neural networks (CNN) to detect and classify animals in digital images with improved accuracy, aiding in wildlife research and monitoring.
+
+Virtual fencing and deforestation monitoring system:
+Combines GPS-based virtual fencing and illegal logging detection to protect wildlife and forest ecosystems while monitoring animal behavior and habitat changes.
+
+Wildlife Database Management System:
+A secure system that manages records of animals, staff, and tourism details for conservation sites, enabling efficient data updates and analysis.
+
+Animal tracking and health monitoring system using GPS and sensors:
+Tracks animal locations and monitors their health using GPS and sensors, with alerts for abnormal heart rate or temperature variations.
+
+GSM GPS-based wildlife animal tracking system:
+A system using GSM and GPS to track animals in real-time, ensuring their safety and reducing incidents like accidents on forest roads.
